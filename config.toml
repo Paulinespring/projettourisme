@@ -1,4 +1,4 @@
-baseurl = "https://pplessier.formao.fr"
+baseurl = "https://paulinespring.github.io/projettourisme/"
 title = "Nederburg"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-FR"
