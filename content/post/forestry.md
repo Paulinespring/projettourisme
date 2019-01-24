@@ -1,9 +1,9 @@
 +++
 categories = ["Vendée"]
 date = "2019-01-24T00:00:00+00:00"
-description = "Bien s'équiper pour bien surfer"
+description = "Où débuter le surf en Vendée, quels sont les meilleurs spots, l'Aiguillon-sur-mer, La Faute-sur-mer, La Tranche-sur-mer, Longeville-sur-mer, Jard-sur-mer, "
 image = "/uploads/IMG_6107.JPG"
-title = "L'Histoire de la glisse en Vendée"
+title = "Dénichez les meilleurs spots de surf pour débuter"
 titre = "cours forestry"
 writter = "Pauline Pless"
 
