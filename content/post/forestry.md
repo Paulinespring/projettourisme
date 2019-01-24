@@ -2,7 +2,6 @@
 categories = []
 date = "2019-01-24T00:00:00+00:00"
 description = "Forestry Comment fonctionne Forestry"
-draft = true
 image = "/uploads/header.jpg"
 titre = "cours forestry"
 writter = "Pauline Pless"
