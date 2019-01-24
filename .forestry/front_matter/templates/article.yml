@@ -27,3 +27,5 @@ fields:
 - type: text
   name: description
   label: Description
+pages:
+- content/post/forestry.md
