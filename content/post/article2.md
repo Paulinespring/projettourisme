@@ -1,10 +1,10 @@
 +++
 categories = ["Vendée"]
-date = "2019-01-09T19:41:01+05:30"
-description = "Individual meta description for this post"
-image = "img/portfolio/logs1.jpg"
+date = "2019-01-24T14:11:01+00:00"
+description = "Débuter le surf en Vendée, la Tranche-sur-mer"
+image = "/uploads/IMG_6107.JPG"
 showonlyimage = false
-title = "Maison d'hôte Philippe"
+title = "Où débuter le surf en Vendée?"
 weight = 2
 writer = "Pauline Pless"
 
