@@ -10,8 +10,8 @@ fields:
     required: true
     display_utc: true
 - type: text
-  name: titre
-  label: Titre
+  name: title
+  label: Title
   hidden: false
   config:
     required: true
