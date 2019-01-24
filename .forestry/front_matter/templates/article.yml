@@ -1,0 +1,29 @@
+---
+label: article
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    display_utc: true
+- type: text
+  name: titre
+  label: Titre
+  hidden: false
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+- type: text
+  name: writter
+  label: Writer
+- type: tag_list
+  name: categories
+  label: Categories
+- type: text
+  name: description
+  label: Description
