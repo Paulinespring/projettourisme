@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Vendée"]
 date = "2019-01-24T00:00:00+00:00"
 description = "Forestry Comment fonctionne Forestry"
 image = "/uploads/header.jpg"
