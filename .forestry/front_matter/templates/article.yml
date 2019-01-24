@@ -28,4 +28,5 @@ fields:
   name: description
   label: Description
 pages:
+- content/post/tutu.md
 - content/post/forestry.md
