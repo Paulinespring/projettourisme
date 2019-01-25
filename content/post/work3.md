@@ -20,9 +20,9 @@ Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 
 > C'est parti !
 
-### Evaluez votre niveau
+### 1. Evaluez votre niveau
 
-**Débutant :** vous débarquez complètement (ou plutôt vous embarquez)!
+##### **Débutant :** vous débarquez complètement (ou plutôt vous embarquez)!
 
 C'est donc tout nouveau pour vous ! Vous allez prendre vos premières vagues et tenter de vous mettre debout, et là... c'est le drame. Pas de panique, restez zen, c'est normal de boire la tasse au début :)
 
@@ -32,7 +32,7 @@ Vous appréhendez déjà un peu le large, il vous appelle !
 
 Vous allez donc choisir une planche de surf pour débutant, assez longue et en mousse (ça évite de se casser les dents). Vous pourrez tout à fait en louer dans les nombreuses écoles de surf sur notre belle Côte Vendéenne, et en profiter pour prendre quelques leçons ;)
 
-**Intermédiaire :** on progresse !
+##### **Intermédiaire :** on progresse !
 
 Vous parvenez à passer la barre et à vous lancer sur les vagues.
 
@@ -44,7 +44,7 @@ C'est pas mal!
 
 Vous pouvez déjà commencer à penser à la planche de surf en résine, et raccourcir un peu le modèle si vous le souhaitez. On privilégiera quand même encore un gros [litrage.]()
 
-**Confirmé :** On accélère la cadence...
+##### **Confirmé :** On accélère la cadence...
 
 Vous avez une bonne lecture de vague et le sens des priorités : eh oui, il y a un code de la route sur les vagues qu'il faut respecter, au risque de, au mieux, se prendre quelques réflexions, au pire, se faire très mal!
 
@@ -52,7 +52,7 @@ Vous maîtrisez votre trajectoire et faites quelques virages, longs ou serrés.
 
 Ça y est, vous pouvez viser les modèles de planche de surf pour confirmés (attention à ne pas trop prendre la grosse tête !)
 
-2 Adapter votre planche de surf à votre gabarit
+### 2. Adapter votre planche de surf à votre gabarit
 
 Plusieurs critères sont donc à prendre en compte :
 
@@ -65,19 +65,23 @@ Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litra
 
 Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit litrage, dès que vous avez un niveau confirmé.
 
-3 Choisissez un modèle selon les conditions de vagues
+### 3. Choisissez un modèle selon les conditions de vagues
 
-Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large. 
+Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large.
 
-Le Longboard 
+Ce choix va essentiellement dépendre des conditions de houle, de la taille des vagues, du type de vagues... mais également de votre niveau. 
 
-Bien connu aussi sous le nom de Malibu, c'est la première planche de surf. Stable et permettant une glisse tout en douceur, c'est aussi une planche imposante et lourde, donc complexe à manoeuvrer. Elle est cependant idéale pour des petites vagues comme des grosses, selon son niveau. Elle nécessite tout de même d'être déjà un peu à l'aise dans l'eau. 
+Rendez-vous sur notre page entièrement dédiée au différentes planches de surf en [cliquant ici !]()
 
-Le Shortboard
+##### Le Longboard
 
-La plus populaire de toutes les planches de surf, le shortboard est utilisé surtout par des surfeurs bien confirmés. Comme son nom l'indique, c'est une planche courte, facile à manoeuvrer et idéal pour un surf plus technique. 
+Bien connu aussi sous le nom de Malibu, c'est la première planche de surf. Stable et permettant une glisse tout en douceur, c'est aussi une planche imposante et lourde, donc complexe à manoeuvrer. Elle est cependant idéale pour des petites vagues comme des grosses, selon son niveau. Elle nécessite tout de même d'être déjà un peu à l'aise dans l'eau.
 
-L'Evolutive
+##### Le Shortboard
+
+La plus populaire de toutes les planches de surf, le shortboard est utilisé surtout par des surfeurs bien confirmés. Comme son nom l'indique, c'est une planche courte, facile à manoeuvrer et idéal pour un surf plus technique.
+
+##### L'Evolutive
 
 Idéale pour les surfeurs de niveau intermédiaire, elle concilie confort du Mini-malibu et aisance de manoeuvre du Shortboard.
 
