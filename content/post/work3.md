@@ -4,7 +4,7 @@ date = "2019-01-24T14:14:32+00:00"
 image = "/uploads/Tropical-Boards-square-min.jpg"
 showonlyimage = false
 title = "Bien s'équiper pour bien surfer"
-weight = ""
+weight = 3
 writer = "Pauline Pless"
 
 +++
