@@ -3,7 +3,7 @@ categories = ["Vendée"]
 date = "2019-01-24T11:00:00+00:00"
 image = "/uploads/Tropical-Boards-square-min.jpg"
 showonlyimage = false
-title = "Bien s'équiper pour bien surfer"
+title = "Bien choisir sa planche"
 weight = 2
 writer = "Pauline Pless"
 
