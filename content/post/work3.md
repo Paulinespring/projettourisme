@@ -2,7 +2,7 @@
 categories = ["Vendée"]
 date = "2019-01-24T11:00:00+00:00"
 draft = true
-image = "/uploads/Tropical-Boards-square-min.jpg"
+image = "/uploads/alexandre-capt-1127221-unsplash.jpg"
 showonlyimage = false
 title = "Bien choisir sa planche de surf: 5 conseils"
 weight = 2
