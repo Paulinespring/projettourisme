@@ -54,20 +54,32 @@ Vous maîtrisez votre trajectoire et faites quelques virages, longs ou serrés.
 
 2 Adapter votre planche de surf à votre gabarit
 
-Plusieurs critères sont donc à prendre en compte : 
+Plusieurs critères sont donc à prendre en compte :
 
 * Longueur
 * Largueur
 * Épaisseur
 * Litrage
 
-Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litrage : plus épaisse et plus longue. 
+Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litrage : plus épaisse et plus longue.
 
-Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit litrage, dès que vous avez un niveau confirmé. 
+Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit litrage, dès que vous avez un niveau confirmé.
 
-3 Choisissez un modèle selon les conditions 
+3 Choisissez un modèle selon les conditions de vagues
 
-Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... 
+Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large. 
+
+Le Longboard 
+
+Bien connu aussi sous le nom de Malibu, c'est la première planche de surf. Stable et permettant une glisse tout en douceur, c'est aussi une planche imposante et lourde, donc complexe à manoeuvrer. Elle est cependant idéale pour des petites vagues comme des grosses, selon son niveau. Elle nécessite tout de même d'être déjà un peu à l'aise dans l'eau. 
+
+Le Shortboard
+
+La plus populaire de toutes les planches de surf, le shortboard est utilisé surtout par des surfeurs bien confirmés. Comme son nom l'indique, c'est une planche courte, facile à manoeuvrer et idéal pour un surf plus technique. 
+
+L'Evolutive
+
+Idéale pour les surfeurs de niveau intermédiaire, elle concilie confort du Mini-malibu et aisance de manoeuvre du Shortboard.
 
 > ## Header Level 2
 
