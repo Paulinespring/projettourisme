@@ -5,7 +5,7 @@ description = "Skateboard en Vendée, Skatepark en Vendée, cours de skate, éco
 image = "/uploads/skate.jpg"
 showonlyimage = false
 title = "Venez glisser en Vendée !"
-weight = ""
+weight = 2
 writer = "Pauline Pless"
 
 +++
