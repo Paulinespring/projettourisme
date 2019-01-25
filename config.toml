@@ -1,5 +1,5 @@
 baseurl = "https://pauline.formao.fr"
-title = "Site de Pauline"
+title = "Nederburg"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-FR"
 # Enable comments by entering your Disqus shortname
@@ -13,7 +13,7 @@ paginate = 5 #frontpage pagination
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "A fast &amp; secure theme"
-  description = "Site de tourisme et de loisirs en Vendée, " # meta description
+  description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "Pauline"
   authorLink = "https://appernetic.io/"
@@ -59,7 +59,7 @@ paginate = 5 #frontpage pagination
 
 # this will also be in author bio if there is no writer.
   [params.social]
-  facebook      = "https://www.facebook.com/Extra-terrestre-215942769317601/?modal=admin_todo_tour"
+  facebook      = "full Social profile url in facebook"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   instagram     = "full profile url in instagram"
