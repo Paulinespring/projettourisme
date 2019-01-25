@@ -1,9 +1,9 @@
 +++
-categories = ["Vendée"]
-date = "2019-01-24T11:00:00+00:00"
+categories = ["Toto"]
+date = "2019-01-23T23:00:00+00:00"
 image = "/uploads/alexandre-capt-1127221-unsplash.jpg"
 showonlyimage = false
-title = "Bien choisir sa planche de surf: 5 conseils-(copy)"
+title = "Les différentes planches de surf"
 weight = 2
 writer = "Pauline Pless"
 
