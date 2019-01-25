@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>https://pauline.formao.fr/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://pauline.formao.fr/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Bien s&#39;équiper pour bien surfer</title>
       <link>https://pauline.formao.fr/post/work3/</link>
       <pubDate>Thu, 24 Jan 2019 14:14:32 +0000</pubDate>
@@ -109,6 +100,15 @@
       <guid>https://pauline.formao.fr/about/</guid>
       <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
+    </item>
+    
+    <item>
+      <title>This is a Standard Post</title>
+      <link>https://pauline.formao.fr/post/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://pauline.formao.fr/post/work2/</guid>
+      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
     </item>
     
   </channel>
