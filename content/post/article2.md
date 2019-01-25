@@ -5,7 +5,7 @@ description = "Débuter le surf en Vendée, la Tranche-sur-mer"
 image = "/uploads/IMG_6107.JPG"
 showonlyimage = false
 title = "Où débuter le surf en Vendée?"
-weight = ""
+weight = 1
 writer = "Pauline Pless"
 
 +++
