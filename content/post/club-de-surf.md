@@ -1,18 +1,14 @@
 +++
-categories = ["design"]
-date = "2019-01-05T19:41:01+05:30"
-description = "Individual meta description for this post"
-image = "img/portfolio/logs1.jpg"
+categories = []
+date = "2019-01-25T14:11:01+00:00"
+description = "Skateboard en Vendée, Skatepark en Vendée, cours de skate, école de skate"
+image = "/uploads/skate.jpg"
 showonlyimage = false
-title = "Club de surf à Talmont"
+title = "Venez glisser en Vendée !"
 weight = 2
-writer = "Göran Svensson"
+writer = "Pauline Pless"
 
 +++
-Découvre les club de surf
-<!--more-->
-
-
 # Ceci est un H1
 
 contenu
@@ -31,7 +27,7 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
 
 Mon prmeier paragrpge
 
