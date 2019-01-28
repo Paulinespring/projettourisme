@@ -800,11 +800,13 @@ a img {
   height: 0;
   padding-bottom: 50%;
   background-position: 50%;
-  background-size: cover;
+  background-size: 60%;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   -webkit-transition: -webkit-transform 0.3s ease;
           transition: transform 0.3s ease;
+  background-repeat: no-repeat;
+          
 }
 
 .zoom .featured-image-link {
