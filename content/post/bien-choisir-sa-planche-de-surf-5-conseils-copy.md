@@ -1,7 +1,7 @@
 +++
 categories = ["Toto"]
 date = "2019-01-23T23:00:00+00:00"
-image = "/uploads/types-sufboards.png"
+image = "/uploads/tea.png"
 showonlyimage = false
 title = "Les différentes planches de surf"
 weight = 2
