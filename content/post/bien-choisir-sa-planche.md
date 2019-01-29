@@ -3,13 +3,14 @@ categories = ["Vendée"]
 date = "2019-01-24T11:00:00+00:00"
 image = "/uploads/beach.jpg"
 showonlyimage = false
-title = "Bien choisir sa planche de surf: 5 conseils"
+title = "Bien choisir sa planche de surf"
 weight = 2
 writer = "Pauline Pless"
 
 +++
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
-<!--more-->
+5 conseils pour vous éclairer 
+
+ <!--more-->
 
 ## 5 Conseils-clé pour choisir votre planche de surf
 
@@ -69,7 +70,7 @@ Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit
 
 Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large.
 
-Ce choix va essentiellement dépendre des conditions de houle, de la taille des vagues, du type de vagues... mais également de votre niveau. 
+Ce choix va essentiellement dépendre des conditions de houle, de la taille des vagues, du type de vagues... mais également de votre niveau.
 
 Rendez-vous sur notre page entièrement dédiée au différentes planches de surf en [cliquant ici !]()
 
