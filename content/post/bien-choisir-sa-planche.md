@@ -81,6 +81,6 @@ Rendez-vous sur notre page entièrement dédiée au différentes planches de sur
 
 Sur internet, vous trouverez des commnunautés dans lesquelles figureront les avis de personnes confirmées sur des modèles de planche. Les réels passionnés s'en font même un plaisir ! Vous pouvez également vous renseigner auprès d'eux en direct-live sur la plage et auprès des écoles de surf.
 
-### **5. Jetez-vous à l'eau!**
+> ### **5. Jetez-vous à l'eau!**
 
 N'hésitez-pas à tester des modèles en les louant par exemple dans des écoles. Vous aurez une idée concrète de la maniabilité de la planche, sa stabilité, son efficacité dans les conditions qui se présenteront, etc. 
