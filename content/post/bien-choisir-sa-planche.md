@@ -12,14 +12,14 @@ writer = "Pauline Pless"
 
 <!--more-->
 
-## 5 Conseils-clé pour choisir votre planche de surf
+> ## 5 Conseils-clé pour choisir votre planche de surf
+>
+> 1. Évaluez votre niveau
+> 2. Adaptez votre planche selon votre gabarit
+> 3. Choisissez un modèle adapté aux conditions
+> 4. Demandez conseil aux surfeurs confirmés
 
-1. Évaluez votre niveau
-2. Adaptez votre planche selon votre gabarit
-3. Choisissez un modèle adapté aux conditions
-4. Demandez conseil aux surfeurs confirmés
-
-> C'est parti !
+C'est parti !
 
 ### 1. Evaluez votre niveau
 
