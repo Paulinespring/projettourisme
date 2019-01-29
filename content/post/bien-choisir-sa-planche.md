@@ -19,7 +19,7 @@ writer = "Pauline Pless"
 3. Choisissez un modèle adapté aux conditions
 4. Demandez conseil aux surfeurs confirmés
 
- C'est parti !
+C'est parti !
 
 > ### 1. Evaluez votre niveau
 
