@@ -22,7 +22,7 @@ writer = "Pauline Pless"
 
 C'est parti !
 
-> ### 1. Evaluez votre niveau
+> ### **1. Evaluez votre niveau**
 
 #### **Débutant :** vous débarquez complètement (ou plutôt vous embarquez)!
 
@@ -54,7 +54,7 @@ Vous maîtrisez votre trajectoire et faites quelques virages, longs ou serrés.
 
 Ça y est, vous pouvez viser les modèles de planche de surf pour confirmés (attention à ne pas trop prendre la grosse tête !)
 
-> ### 2. Adaptez votre planche de surf à votre gabarit
+> ### **2. Adaptez votre planche de surf à votre gabarit**
 
 Plusieurs critères sont donc à prendre en compte :
 
@@ -67,7 +67,7 @@ Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litra
 
 Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit litrage, dès que vous avez un niveau confirmé.
 
-> ### 3. Choisissez un modèle selon les types de vagues
+> ### **3. Choisissez un modèle selon les types de vagues**
 
 Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large.
 
@@ -77,10 +77,10 @@ Il vous faut savoir dans quels lieux (spots) vous voulez surfer pour savoir sur 
 
 Rendez-vous sur notre page entièrement dédiée au différentes planches de surf en [cliquant ici !]()
 
-> ### 4. Demandez conseil aux surfeurs confirmés
+> ### **4. Demandez conseil aux surfeurs confirmés**
 
 Sur internet, vous trouverez des commnunautés dans lesquelles figureront les avis de personnes confirmées sur des modèles de planche. Les réels passionnés s'en font même un plaisir ! Vous pouvez également vous renseigner auprès d'eux en direct-live sur la plage et auprès des écoles de surf.
 
-### 5. Jetez-vous à l'eau!
+### **5. Jetez-vous à l'eau!**
 
 N'hésitez-pas à tester des modèles en les louant par exemple dans des écoles. Vous aurez une idée concrète de la maniabilité de la planche, sa stabilité, son efficacité dans les conditions qui se présenteront, etc. 
