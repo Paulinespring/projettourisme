@@ -8,6 +8,7 @@ weight = 2
 writer = "Pauline Pless"
 
 +++
+Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... retrouvez les principaux modèles qui existent. 
 
 <!--more-->
 
@@ -38,8 +39,8 @@ Bien connu aussi sous le nom de Malibu, c'est la première planche de surf. Trè
 
 > ### 5. Le Gun (7' à 9' et +)
 
-Vous vous souvenez de Pointbreak? Mais siiiii... avec le beau Patrick Swayze!! On y est ! Ce type de planche est réservé aux spécialistes qui pratiquent la chasse aux grosses vagues ; on parle donc d'un niveau expert. 
+Vous vous souvenez de Pointbreak? Mais siiiii... avec le beau Patrick Swayze!! On y est ! Ce type de planche est réservé aux spécialistes qui pratiquent la chasse aux grosses vagues ; on parle donc d'un niveau expert.
 
 > ### 6. Le Fish (4'8 à 7'2)
 
-Courte mais plus large que l'évolutive, c'est une planche pour un surfeur confirmé dans de petites vagues. C'est la deuxième planche parfaite pour une houle d'été. 
+Courte mais plus large que l'évolutive, c'est une planche pour un surfeur confirmé dans de petites vagues. C'est la deuxième planche parfaite pour une houle d'été.
