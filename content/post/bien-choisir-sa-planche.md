@@ -24,7 +24,7 @@ C'est parti !
 
 > ### 1. Evaluez votre niveau
 
-##### **Débutant :** vous débarquez complètement (ou plutôt vous embarquez)!
+#### **Débutant :** vous débarquez complètement (ou plutôt vous embarquez)!
 
 C'est donc tout nouveau pour vous ! Vous allez prendre vos premières vagues et tenter de vous mettre debout, et là... c'est le drame. Pas de panique, restez zen, c'est normal de boire la tasse au début :)
 
@@ -34,7 +34,7 @@ Vous appréhendez déjà un peu le large, il vous appelle !
 
 Vous allez donc choisir une planche de surf pour débutant, assez longue et en mousse (ça évite de se casser les dents). Vous pourrez tout à fait en louer dans les nombreuses écoles de surf sur notre belle Côte Vendéenne, et en profiter pour prendre quelques leçons ;)
 
-##### **Intermédiaire :** on progresse !
+#### **Intermédiaire :** on progresse !
 
 Vous parvenez à passer la barre et à vous lancer sur les vagues.
 
@@ -46,7 +46,7 @@ C'est pas mal!
 
 Vous pouvez déjà commencer à penser à la planche de surf en résine, et raccourcir un peu le modèle si vous le souhaitez. On privilégiera quand même encore un gros [litrage.]()
 
-##### **Confirmé :** On accélère la cadence...
+#### **Confirmé :** On accélère la cadence...
 
 Vous avez une bonne lecture de vague et le sens des priorités : eh oui, il y a un code de la route sur les vagues qu'il faut respecter, au risque de, au mieux, se prendre quelques réflexions, au pire, se faire très mal!
 
@@ -58,10 +58,10 @@ Vous maîtrisez votre trajectoire et faites quelques virages, longs ou serrés.
 
 Plusieurs critères sont donc à prendre en compte :
 
-* Longueur
-* Largueur
-* Épaisseur
-* Litrage
+* **Longueur**
+* **Largueur**
+* **Épaisseur**
+* **Litrage**
 
 Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litrage : plus épaisse et plus longue.
 
