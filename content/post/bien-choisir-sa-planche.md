@@ -18,6 +18,7 @@ writer = "Pauline Pless"
 2. Adaptez votre planche selon votre gabarit
 3. Choisissez un modèle adapté aux conditions
 4. Demandez conseil aux surfeurs confirmés
+5. Jetez-vous à l'eau !
 
 C'est parti !
 
@@ -66,22 +67,20 @@ Plus vous êtes lourd, plus vous devez vous équiper d'une planche à gros litra
 
 Au contraire, si vous êtes léger, vous pouvez viser des planches à plus petit litrage, dès que vous avez un niveau confirmé.
 
-> ### 3. Choisissez un modèle selon les conditions de vagues
+> ### 3. Choisissez un modèle selon les types de vagues
 
 Entre Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun... le choix est large.
 
 Ce choix va essentiellement dépendre des conditions de houle, de la taille des vagues, du type de vagues... mais également de votre niveau.
 
+Il vous faut savoir dans quels lieux (spots) vous voulez surfer pour savoir sur quel type de vagues vous allez surfer.
+
 Rendez-vous sur notre page entièrement dédiée au différentes planches de surf en [cliquant ici !]()
 
-##### **Le Longboard**
+> ### 4. Demandez conseil aux surfeurs confirmés
 
-Bien connu aussi sous le nom de Malibu, c'est la première planche de surf. Stable et permettant une glisse tout en douceur, c'est aussi une planche imposante et lourde, donc complexe à manoeuvrer. Elle est cependant idéale pour des petites vagues comme des grosses, selon son niveau. Elle nécessite tout de même d'être déjà un peu à l'aise dans l'eau.
+Sur internet, vous trouverez des commnunautés dans lesquelles figureront les avis de personnes confirmées sur des modèles de planche. Les réels passionnés s'en font même un plaisir ! Vous pouvez également vous renseigner auprès d'eux en direct-live sur la plage et auprès des écoles de surf.
 
-##### **Le Shortboard**
+### 5. Jetez-vous à l'eau!
 
-La plus populaire de toutes les planches de surf, le shortboard est utilisé surtout par des surfeurs bien confirmés. Comme son nom l'indique, c'est une planche courte, facile à manoeuvrer et idéal pour un surf plus technique.
-
-##### **L'Evolutive**
-
-Idéale pour les surfeurs de niveau intermédiaire, elle concilie confort du Mini-malibu et aisance de manoeuvre du Shortboard.
+N'hésitez-pas à tester des modèles en les louant par exemple dans des écoles. Vous aurez une idée concrète de la maniabilité de la planche, sa stabilité, son efficacité dans les conditions qui se présenteront, etc. 
