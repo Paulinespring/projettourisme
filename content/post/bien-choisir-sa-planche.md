@@ -8,9 +8,9 @@ weight = 2
 writer = "Pauline Pless"
 
 +++
-5 conseils pour vous éclairer 
+5 conseils pour vous éclairer
 
- <!--more-->
+<!--more-->
 
 ## 5 Conseils-clé pour choisir votre planche de surf
 
@@ -53,7 +53,7 @@ Vous maîtrisez votre trajectoire et faites quelques virages, longs ou serrés.
 
 Ça y est, vous pouvez viser les modèles de planche de surf pour confirmés (attention à ne pas trop prendre la grosse tête !)
 
-### 2. Adapter votre planche de surf à votre gabarit
+### 2. Adaptez votre planche de surf à votre gabarit
 
 Plusieurs critères sont donc à prendre en compte :
 
@@ -96,7 +96,3 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Aliquam tincidunt mauris eu risus.
 
 When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-Mon prmeier paragrpge
-
-Mon éeme paragpr
