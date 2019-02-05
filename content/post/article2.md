@@ -2,7 +2,7 @@
 categories = ["Vendée"]
 date = "2019-01-24T14:11:01+00:00"
 description = "Débuter le surf en Vendée, la Tranche-sur-mer"
-image = "/uploads/tea.png"
+image = "/uploads/IMG_6107.JPG"
 showonlyimage = false
 title = "Où débuter le surf en Vendée?"
 weight = 2
