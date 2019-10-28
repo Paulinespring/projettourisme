@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toto on Pauline à la plage</title>
+    <link>https://pauline.formao.fr/categories/toto/</link>
+    <description>Recent content in Toto on Pauline à la plage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Wed, 23 Jan 2019 23:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pauline.formao.fr/categories/toto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les différentes planches de surf</title>
+      <link>https://pauline.formao.fr/post/les-differents-type-de-planche/</link>
+      <pubDate>Wed, 23 Jan 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://pauline.formao.fr/post/les-differents-type-de-planche/</guid>
+      <description>&lt;p&gt;Longboard, Shortboards, Fish, Evolutive, Mini-Malibu, Gun&amp;hellip; retrouvez les principaux modèles qui existent.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

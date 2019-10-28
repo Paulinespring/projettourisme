@@ -1,5 +1,5 @@
 baseurl = "https://pauline.formao.fr"
-title = "Pauline à la plage"
+title = "So phare"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-FR"
 # Enable comments by entering your Disqus shortname
@@ -66,7 +66,7 @@ paginate = 5 #frontpage pagination
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
-    [params.writers."Lukas Herman"]
+    [params.writers."Pauline"]
     link = "https://lherman.tk"
     email = "lherman.cs@gmail.com"
     bio = [
