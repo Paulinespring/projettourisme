@@ -1,15 +1,32 @@
 baseurl = "https://pauline.formao.fr"
+<<<<<<< HEAD
 title = "So phare"
 theme = "hugo-nederburg-theme"
 languageCode = "fr-FR"
 # Enable comments by entering your Disqus shortname
+=======
+>>>>>>> 75307203686582772d2185168b2860beb623e36c
 disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-129697808-3"
+languageCode = "fr-FR"
+paginate = 5
 preserveTaxonomyNames = true
-paginate = 5 #frontpage pagination
-
+theme = "hugo-nederburg-theme"
+title = "Pauline à la plage"
+[[menu.main]]
+name = "Qui suis-je ?"
+url = "about/"
+weight = 2
+[[menu.main]]
+name = "Contactez-moi"
+url = "contact/"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [params]
+<<<<<<< HEAD
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "A fast &amp; secure theme"
@@ -90,3 +107,35 @@ paginate = 5 #frontpage pagination
     linkedin      = "full profile url in linkedin"
     instagram     = "full profile url in instagram"
     github        = "full profile url in github"
+=======
+author = "Pauline"
+authorLink = "https://appernetic.io/"
+bio = ["Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."]
+copyright = ["&copy; 2018 Göran Svensson", "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).", "A port of Tracks by Compete Themes."]
+description = "Describe your website"
+email = "goran@molnsys.com"
+slogan = "A fast &amp; secure theme"
+[params.social]
+facebook = "full Social profile url in facebook"
+instagram = "full profile url in instagram"
+linkedin = "full profile url in linkedin"
+twitter = "full profile url in twitter"
+[params.writers."Lukas Herman"]
+bio = ["Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."]
+email = "lherman.cs@gmail.com"
+facebook = "full lukas profile url in facebook"
+github = "full profile url in github"
+instagram = "full profile url in instagram"
+link = "https://lherman.tk"
+linkedin = "full profile url in linkedin"
+twitter = "full profile url in twitter"
+[params.writers.Pauline]
+bio = ["Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."]
+email = "goran@molnsys.com"
+facebook = "full Göran profile url in facebook"
+github = "full profile url in github"
+instagram = "full profile url in instagram"
+link = "https://appernetic.io/"
+linkedin = "full profile url in linkedin"
+twitter = "full profile url in twitter"
+>>>>>>> 75307203686582772d2185168b2860beb623e36c
