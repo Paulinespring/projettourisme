@@ -1,10 +1,10 @@
 +++
 categories = ["toto"]
 date = "2019-01-25T02:11:01+00:00"
-description = "Skateboard en Vendée, Skatepark en Vendée, cours de skate, école de skate"
+description = "référencement internet, visibilité, seo, rédaction web, rédaction de contenu"
 image = "/uploads/skate.jpg"
 showonlyimage = false
-title = "Venez glisser en Vendée !"
+title = "Améliorez votre visibilité sur les moteurs de recherche"
 weight = 2
 writer = "Pauline Pless"
 
