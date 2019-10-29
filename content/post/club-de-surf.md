@@ -2,7 +2,7 @@
 categories = []
 date = "2019-01-25T02:11:01+00:00"
 description = "référencement internet, visibilité, seo, rédaction web, rédaction de contenu"
-image = "/uploads/skate.jpg"
+image = "/uploads/header.jpg"
 showonlyimage = false
 title = "Améliorez votre visibilité sur les moteurs de recherche"
 weight = "2"
