@@ -5,7 +5,7 @@ description = ""
 draft = true
 image = "/uploads/header.jpg"
 title = "Améliorez votre visibilité sur les moteurs de recherche"
-weight = ""
+weight = "1"
 writer = "Pauline Plessier"
 
 +++
